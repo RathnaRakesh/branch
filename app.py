@@ -1,6 +1,6 @@
 num = int(input("Enter a number: "))
 
-if num % 2 == 0:
+if num % 2 == 2:
     print("Even 34  ")
 else:
     print("Odd number")
